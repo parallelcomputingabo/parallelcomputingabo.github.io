@@ -48,14 +48,14 @@ All lectures are hybrid and recorded. Zoom recordings will be shared on Moodle a
 # 📂 Lectures
 
 ## Week 1: Course Intro & Parallel Hardware
-- [Lecture 1 Slides](/docs/slides/01%20Intro%20&%20parallel%20hardware.pdf)
+- [Lecture 1 Slides](slides/01%20Intro%20&%20parallel%20hardware.pdf)
 
 ## Week 2: C/C++ Refresher
-- [Lecture 2 Slides](/docs/slides/02%20C++%20Refresher.pdf)
+- [Lecture 2 Slides](slides/02%20C++%20Refresher.pdf)
 
 ## Week 3–4: Shared Memory Programming with OpenMP
-- [Lecture 3: OpenMP Part I](/docs/slides/03%20Shared%20Memory%20Programming%20I.pdf)
-- [Lecture 4: OpenMP Part II](/docs/slides/04%20Shared%20Memory%20Programming%20II.pdf)
+- [Lecture 3: OpenMP Part I](slides/03%20Shared%20Memory%20Programming%20I.pdf)
+- [Lecture 4: OpenMP Part II](slides/04%20Shared%20Memory%20Programming%20II.pdf)
 
 ## Week 5–7: GPU Programming with CUDA
 - [CUDA Programming I](#)
@@ -73,10 +73,11 @@ All lectures are hybrid and recorded. Zoom recordings will be shared on Moodle a
 # 🎥 Lecture Videos
 All lectures will be uploaded to YouTube and linked here:
 
-- [Lecture 1 – Course Intro & Hardware](#)
-- [Lecture 2 – C++ Refresher]([#](https://youtu.be/wizgDvbXJDw))
-- [Lecture 3 – OpenMP I]([#](https://youtu.be/tvQ40iAhnqo))
-- [Lecture 4 – OpenMP II]([#](https://youtu.be/tx7LwhhaEfw))
+- [Lecture 1 – Course Intro & Hardware](https://youtu.be/YOUR_LINK_HERE)
+- [Lecture 2 – C++ Refresher](https://youtu.be/wizgDvbXJDw)
+- [Lecture 3 – OpenMP I](https://youtu.be/tvQ40iAhnqo)
+- [Lecture 4 – OpenMP II](https://youtu.be/tx7LwhhaEfw)
+
 - ...
 
 
