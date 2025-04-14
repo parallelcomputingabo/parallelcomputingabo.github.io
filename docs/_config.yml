@@ -1,5 +1,9 @@
 title: Parallel Programming Course
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# Enable the remote theme plugin
+plugins:
+  - jekyll-remote-theme
 
 # Sidebar navigation structure
 nav:
