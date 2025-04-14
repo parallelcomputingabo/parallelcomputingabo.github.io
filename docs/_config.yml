@@ -1,0 +1,13 @@
+title: Parallel Programming Course
+theme: just-the-docs
+
+# Sidebar navigation structure
+nav:
+  - title: Home
+    url: /
+  - title: Lectures
+    url: /lectures
+  - title: Assignments
+    url: /assignments
+  - title: Videos
+    url: /videos
